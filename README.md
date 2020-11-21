@@ -2,7 +2,14 @@
 Curso de Ciencia de Datos - Visualizacion de la Información
 - Creación de un index.html
 - [Practica con Tableau](https://github.com/afantin/infovis/blob/gh-pages/Week44-Tableau.html)
+- [Practica con RawGraph]
+- [Flourish.Studio]
+- [Vega Lite]
+- [Colaboratory]
+- [ObservatoryHQ]
 
+# Trabajo Final
+- https://github.com/afantin/infovis/blob/gh-pages/Emiliano.html
 
 # Links importantes MD
 - [Wiki Markdown](https://en.wikipedia.org/wiki/Markdown)
