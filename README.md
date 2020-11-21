@@ -9,7 +9,7 @@ Curso de Ciencia de Datos - Visualizacion de la Información
 - [ObservatoryHQ]
 
 # Trabajo Final
-- https://github.com/afantin/infovis/blob/gh-pages/Emiliano.html
+- [Seguimiento "Episodios" Emiliano](https://github.com/afantin/infovis/blob/gh-pages/Emiliano.html)
 
 # Links importantes MD
 - [Wiki Markdown](https://en.wikipedia.org/wiki/Markdown)
