@@ -11,6 +11,8 @@ Curso de Ciencia de Datos - Visualizacion de la Información
 # Trabajo Final
 - [Seguimiento "Episodios" Emiliano](https://afantin.github.io/infovis/Emiliano.html)
 
+(https://eazybi.com/static/img/blog/posts/2016_03_01/chart-selection-diagram.png)
+
 # Links importantes MD
 - [Wiki Markdown](https://en.wikipedia.org/wiki/Markdown)
 - [Codigo MD](https://guides.github.com/features/mastering-markdown/)
