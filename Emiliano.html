@@ -91,12 +91,12 @@
       // Assign the specification to a local variable vlSpec.
       var vlSpec = {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-   "width": 500,
+  "width": 500,
   "height": 500,
   "data": {
     "url": "https://raw.githubusercontent.com/afantin/infovis/gh-pages/Seguimiento%20episodios%20TGD%20Emiliano.csv"
   },
-   "mark": "circle",
+  "mark": "circle",
   "encoding": {
     "x": {
       "field": "Horas_Estudio",
@@ -112,7 +112,6 @@
     "size": {"field": "Cantidad_Episodios", "type": "quantitative"}
     }
 };
-
       // Embed the visualization in the container with id `vis`
       vegaEmbed('#vis', vlSpec);
     </script>;
